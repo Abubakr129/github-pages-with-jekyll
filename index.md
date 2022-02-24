@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to my LAB4 of Open Source System"
 ---
 
-I'm glad you are here. I plan to talk about ...
+It is fun to create my new website and host it on github. I think I will create one for my resume uploading as well!
